@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "647578032299",
+    "firebase_url": "https://chattingtest-9a084.firebaseio.com",
+    "project_id": "chattingtest-9a084",
+    "storage_bucket": "chattingtest-9a084.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647578032299:android:148024240c9afef3",
+        "android_client_info": {
+          "package_name": "com.example.tangel.vladychatting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647578032299-tpun2n9fbc30218l7q1chpi06arechmn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMdIg4DdZQvL5Zn2wEtwnKhxJlfV_S9z4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
